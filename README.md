@@ -10,7 +10,7 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 
 ***
 👋 I'm looking to find a summer internship or a full time position (graduating in September'22) in the Technology, Financial, Logistics & Smart Cities sectors. 
-<br>Got something? Reach me at hello(at)info.widyasalim.com
+<br><br>Got something? Reach me at hello(at)info.widyasalim.com
 ***
 💻 Technology Stack: Python, SQL, R, HTML, Javascript, CSS
 <br><br>
