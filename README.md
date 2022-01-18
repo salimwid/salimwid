@@ -6,6 +6,7 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 
 🔭 I’m currently pursuing MSc Business Analytics (Big Data Specialization) at National University of Singapore (NUS) <br>
 🌱 I’m currently taking courses in Deep Learning, Big Data, Network Analytics and Applied Machine Learning <br> 
+💖 I’m currently excited to work on Recommendation Systems, Neural Networks, Operations Research and Network Analytics 
 
 ***
 👋 I'm looking to find a summer internship or a full time position (graduating in September'22) in the Technology, Financial, Logistics & Smart Cities sectors. 
