@@ -1,4 +1,4 @@
-### Hi there, I'm Widya <img src="https://c.tenor.com/8McIGu0Tf_QAAAAj/fire-joypixels.gif" width="30px" style="padding-top:2px;">
+### Hi there, I'm Widya <img src="https://c.tenor.com/8McIGu0Tf_QAAAAj/fire-joypixels.gif" width="25px">
 
 <hr>
 
