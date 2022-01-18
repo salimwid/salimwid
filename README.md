@@ -12,3 +12,6 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 💻 Technology Stack: Python, SQL, R, HTML, Javascript, CSS
 <br><br>
 ⚡ Fun fact: I've travelled to 45 countries and lived/worked in 5 countries!
+
+Besides my projects here, check out a few fun articles that I've written on my blog:
+[Financial/Cryptocurrency] <a href="http://widyasalim.com/blog/cryptocurrency-banking-the-unbanked-is-now-closer-than-ever/"> Banking the Unbanked </a>
