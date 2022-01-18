@@ -2,7 +2,7 @@
 
 <hr>
 
-I am an aspiring data scientist with a total of 5+ years experience in operations, business development, marketing, prototyping and entrepreneurship in the technology sector across Asia, Europe and North America. Combining my working experience with data analytics and models, I can bring business insights which can be translated to impactful actionable and strategy.
+I am an aspiring data scientist with a total of 5+ years experience in operations, prototyping, business development, marketing and entrepreneurship in the technology sector across Asia, Europe and North America. Combining my working experience with data analytics and models, I can bring business insights which can be translated to impactful actionable and strategy.
 
 🔭 I’m currently pursuing MSc Business Analytics at National University of Singapore (NUS) <br>
 🌱 I’m currently taking Deep Learning courses at FastAI<br>
