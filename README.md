@@ -5,8 +5,7 @@
 I am an aspiring data scientist with a total of 5+ years experience in operations, prototyping, business development, marketing and entrepreneurship in the technology sector across Asia, Europe and North America. Combining my working experience with data analytics and models, I can bring business insights which can be translated to impactful actionable and strategy.
 
 🔭 I’m currently pursuing MSc Business Analytics (Big Data Specialization) at National University of Singapore (NUS) <br>
-🌱 I’m currently taking Deep Learning courses at FastAI<br>
-👯 I’m looking to collaborate on analytics projects - my interest include Recommendation Systems, NLP, Neural Networks, Linear Programming and Network Analytics 
+🌱 I’m currently taking courses in Deep Learning, Big Data, Network Analytics and Applied Machine Learning <br> 
 
 ***
 👋 I'm looking to find a summer internship or a full time position (graduating in September'22) in the Technology, Financial, Logistics & Smart Cities sectors. 
