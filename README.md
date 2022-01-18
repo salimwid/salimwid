@@ -14,6 +14,6 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 ⚡ Fun fact: I've travelled to 45 countries and lived/worked in 5 countries!
 
 Besides my projects here, check out a few fun articles that I've written on my blog:
-💰[Financial/Cryptocurrency] <a href="http://widyasalim.com/blog/cryptocurrency-banking-the-unbanked-is-now-closer-than-ever/"> Banking the Unbanked </a>
-🕸️[Network & Sentiment Analytics] <a href="http://widyasalim.com/blog/is-the-queen-of-england-more-of-a-celebrity-or-head-of-state/"> Is the Queen of England a celebrity? </a>
+💰[Financial/Cryptocurrency] <a href="http://widyasalim.com/blog/cryptocurrency-banking-the-unbanked-is-now-closer-than-ever/"> Banking the Unbanked </a><br>
+🕸️[Network & Sentiment Analytics] <a href="http://widyasalim.com/blog/is-the-queen-of-england-more-of-a-celebrity-or-head-of-state/"> Is the Queen of England a celebrity? </a><br>
 🌎[Technology/Economics] <a href="http://widyasalim.com/blog/can-digital-technology-make-indonesia-competitive-again/"> Boosting Indonesia's Competitive with Digital Technology </a>
