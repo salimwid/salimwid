@@ -1,4 +1,4 @@
-### Hi there, I'm Widya 👋 
+### Hi there, I'm Widya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <hr>
 
