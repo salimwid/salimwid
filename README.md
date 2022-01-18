@@ -1,4 +1,4 @@
-### Hi there, I'm Widya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Widya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://c.tenor.com/O4OxQZrk9A0AAAAC/digilah-digifun.gif" width="30px">
 
 <hr>
 
