@@ -9,7 +9,10 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 👯 I’m looking to collaborate on analytics projects - my interest include Recommendation Systems, NLP, Neural Networks, Linear Programming and Network Analytics 
 
 ***
-👋 I'm looking to find a summer internship or a full time position (graduating in September'22) in the Technology, Financial, Logistics & Smart Cities sectors.
+👋 I'm looking to find a summer internship or a full time position (graduating in September'22) in the Technology, Financial, Logistics & Smart Cities sectors. 
+<br><br> 
+
+Got something? Contact me at hello[at]info.widyasalim.com
 ***
 💻 Technology Stack: Python, SQL, R, HTML, Javascript, CSS
 <br><br>
