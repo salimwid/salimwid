@@ -1,4 +1,4 @@
-### Hi there, I'm Widya <img src="https://c.tenor.com/8McIGu0Tf_QAAAAj/fire-joypixels.gif" width="25px">
+### Hi there, I'm Widya 👋
 
 <hr>
 
@@ -9,7 +9,7 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 👯 I’m looking to collaborate on analytics projects - my interest include Recommendation Systems, NLP, Neural Networks, Linear Programming and Network Analytics 
 
 ***
-👋 I'm looking to find a summer internship or a full time position (graduating in September'22) in the Technology, Financial, Logistics & Smart Cities sectors.
+<img src="https://c.tenor.com/8McIGu0Tf_QAAAAj/fire-joypixels.gif" width="25px"> I'm looking to find a summer internship or a full time position (graduating in September'22) in the Technology, Financial, Logistics & Smart Cities sectors.
 ***
 💻 Technology Stack: Python, SQL, R, HTML, Javascript, CSS
 <br><br>
