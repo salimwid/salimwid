@@ -7,6 +7,7 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 🔭 I’m currently pursuing MSc Business Analytics at National University of Singapore (NUS) <br>
 🌱 I’m currently taking Deep Learning courses at FastAI<br>
 👯 I’m looking to collaborate on analytics projects - my interest include Recommendation Systems, NLP, Neural Networks, Linear Programming and Network Analytics
+🔥 I'm looking to find a summer internship or a full time position (after graduating in September 2022) in the Technology, Financial, Logistics & Smart Cities industry.
 <br><br>
 Technology Stack: Python, SQL, R, HTML, Javascript, CSS
 <br>
