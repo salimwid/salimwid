@@ -9,7 +9,7 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 💖 I’m currently excited to work on Recommendation Systems, Neural Networks, Operations Research and Causal Inference 
 
 ***
-👋 I'm looking to find a summer internship or a full time position (graduating in September'22) in the Technology, Financial, Logistics & Smart Cities sectors. 
+👋 I'm looking to find a full time position (graduating in October'22) in the Technology or Financial sectors. 
 <br><br>Got something? Reach me at hello(at)info.widyasalim.com
 ***
 💻 Technology Stack: Python, SQL, R, HTML, Javascript, CSS
@@ -17,6 +17,7 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 ⚡ Fun fact: I've travelled to 45 countries and lived/worked in 5 countries!
 
 Besides my projects here, check out a few fun articles that I've written on my blog:<br>
+📈[Causal Inference/Network Infrastructure] <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac"> </a> <br>
 💰[Financial/Cryptocurrency] <a href="http://widyasalim.com/blog/cryptocurrency-banking-the-unbanked-is-now-closer-than-ever/"> Banking the Unbanked </a><br>
 🕸️[Network/Sentiment Analysis] <a href="http://widyasalim.com/blog/is-the-queen-of-england-more-of-a-celebrity-or-head-of-state/"> Is the Queen of England a celebrity? </a><br>
 🌎[Technology/Economics] <a href="http://widyasalim.com/blog/can-digital-technology-make-indonesia-competitive-again/"> Boosting Indonesia's Competitive with Digital Technology </a>
