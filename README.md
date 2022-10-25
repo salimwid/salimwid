@@ -17,7 +17,7 @@ I am an aspiring data scientist with a total of 5+ years experience in operation
 ⚡ Fun fact: I've travelled to 45 countries and lived/worked in 5 countries!
 
 Besides my projects here, check out a few fun articles that I've written on my blog:<br>
-📈[Causal Inference/Network Infrastructure] <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac"> </a> Measuring the impact of Twitter network latency with CausalImpact <br>
+📈[Causal Inference/Network Infrastructure] <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac"> Measuring the impact of Twitter network latency with CausalImpact </a> <br>
 💰[Financial/Cryptocurrency] <a href="http://widyasalim.com/blog/cryptocurrency-banking-the-unbanked-is-now-closer-than-ever/"> Banking the Unbanked </a><br>
 🕸️[Network/Sentiment Analysis] <a href="http://widyasalim.com/blog/is-the-queen-of-england-more-of-a-celebrity-or-head-of-state/"> Is the Queen of England a celebrity? </a><br>
 🌎[Technology/Economics] <a href="http://widyasalim.com/blog/can-digital-technology-make-indonesia-competitive-again/"> Boosting Indonesia's Competitive with Digital Technology </a>
