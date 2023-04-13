@@ -2,11 +2,11 @@
 
 <hr>
 
-I am an aspiring data scientist with a total of 5+ years experience in operations, prototyping, business development, marketing and entrepreneurship in the technology sector across Asia, Europe and North America. Combining my working experience with data analytics and models, I can bring business insights which can be translated to impactful actionable and strategy.
+I am a data scientist & analyst with a total of 5+ years experience in operations, prototyping, business development, marketing and entrepreneurship in the technology sector across Asia, Europe and North America. I can bring business insights which can be translated to impactful actionable and strategy.
 
-🔭 I’m currently pursuing MSc Business Analytics (Big Data Specialization) at National University of Singapore (NUS) <br>
+🔭 I recently completed a MSc Business Analytics (Big Data Specialization) at National University of Singapore (NUS) <br>
 🌱 I’m currently taking courses in Deep Learning, Big Data, Network Analytics and Applied Machine Learning <br> 
-💖 I’m currently excited to work on Causal Inference, Recommendation Systems and Network Analytics
+💖 Check my latest technical blog at Twitter: <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac"> Measuring the impact of Twitter network latency with CausalImpact </a>
 
 ***
 👋 I'm looking to find a full time position (graduating in October'22) in the Technology or Financial sectors. 
