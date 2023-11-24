@@ -2,19 +2,17 @@
 
 <hr>
 
-I am a data scientist & analyst with a total of 5+ years experience in operations, prototyping, business development and entrepreneurship in the technology sector across Asia, Europe and North America. I can bring business insights which can be translated to impactful actionable and strategy.
-
-🔭 I recently completed a MSc Business Analytics (Big Data Specialization) at National University of Singapore (NUS) <br>
-🌱 I am a Kaggle Expert and have taken courses in Deep Learning, Big Data, Network Analytics and Operations Research <br> 
-💖 Check my latest technical blog at Twitter: <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac"> Measuring the impact of Twitter network latency with CausalImpact </a>
+I am a data scientist with 6+ years in operations, prototyping, business development and entrepreneurship in the technology sector across Asia, Europe and North America. I can bring business insights which can be translated to impactful actionable and strategy.
 
 ***
 👋 I'm always interested in collaborating! Especially in topics related to Causal Inference, Recommendations and Operations Research.
 <br><br>Got something? Reach me at hello(at)info.widyasalim.com
+
+💖 Check my latest technical blog at Twitter: <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac"> Measuring the impact of Twitter network latency with CausalImpact </a>
 ***
 💻 Technology Stack: Python, SQL, R, HTML, Javascript, CSS
 <br><br>
-⚡ Fun fact: I've travelled to 48 countries and lived/worked in 5 countries!
+⚡ Fun fact: I've travelled to 55 countries and lived/worked in 5 countries!
 
 Besides my projects here, check out a few fun articles that I've written on my blog:<br>
 📈[Causal Inference/Network Infrastructure] <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac"> Measuring the impact of Twitter network latency with CausalImpact </a> <br>
