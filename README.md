@@ -2,7 +2,7 @@
 
 <hr>
 
-I am a data scientist with 6+ years in operations, prototyping, business development and entrepreneurship in the technology sector across Asia, Europe and North America. I can bring business insights which can be translated to impactful actionable and strategy.
+I am a data scientist with 6+ years with a focus in pricing, operations and experimentation in the technology sector across Asia, Europe and North America. I can bring business insights which can be translated to impactful actionable and strategy.
 
 ***
 👋 I'm always interested in collaborating! Especially in topics related to Causal Inference, Recommendations and Operations Research.
